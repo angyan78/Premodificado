@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1560b64-eff8-43b8-996f-553c76f165d1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <interpreter composer="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-view" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mvc" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-skeleton-installer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-validator" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-loader" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-development-mode" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-component-installer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-uri" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-router" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-http" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-json" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-config" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-modulemanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/brick/varexporter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-hydrator" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-inputfilter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-filter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-form" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-db" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-i18n" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2P1DkATI9u0EWwQ2rpYiqbwbZOE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\premodificado\module\Liquidaciones\view\liquidaciones\index" />
+      <recent name="C:\wamp\www\premodificado\module" />
+      <recent name="C:\wamp\www\premodificado\public\carga" />
+      <recent name="C:\wamp\www\premodificado\module\Carga\view\carga\index" />
+      <recent name="C:\wamp\www\premodificado\module\Login\view\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\premodificado" />
+      <recent name="C:\wamp\www\premodificado\vendor" />
+      <recent name="C:\wamp\www\premodificado\module\Usuarios" />
+      <recent name="C:\wamp\www\premodificado\public" />
+      <recent name="C:\wamp\www\premodificado\module\Carga\view\carga" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1560b64-eff8-43b8-996f-553c76f165d1" name="Changes" comment="" />
+      <created>1682615836132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682615836132</updated>
+      <workItem from="1682615843970" duration="4167000" />
+      <workItem from="1682623001204" duration="9575000" />
+      <workItem from="1683045121342" duration="145000" />
+      <workItem from="1684339050488" duration="29000" />
+      <workItem from="1684339983698" duration="20350000" />
+      <workItem from="1684425354124" duration="14495000" />
+      <workItem from="1684521843785" duration="14588000" />
+      <workItem from="1684770572444" duration="24495000" />
+      <workItem from="1684858187941" duration="20428000" />
+      <workItem from="1684953073380" duration="10825000" />
+      <workItem from="1685751574509" duration="621000" />
+      <workItem from="1685982918204" duration="1402000" />
+      <workItem from="1686703802037" duration="694000" />
+      <workItem from="1686769936513" duration="1105000" />
+      <workItem from="1686773882234" duration="216000" />
+      <workItem from="1686876181952" duration="789000" />
+      <workItem from="1686931921213" duration="10764000" />
+      <workItem from="1686945196124" duration="3664000" />
+      <workItem from="1686956444189" duration="5713000" />
+      <workItem from="1687194458568" duration="18918000" />
+      <workItem from="1687278360878" duration="11126000" />
+      <workItem from="1687303307165" duration="5660000" />
+      <workItem from="1687365595700" duration="22678000" />
+      <workItem from="1687450929024" duration="15864000" />
+      <workItem from="1687537203845" duration="7535000" />
+      <workItem from="1687562965235" duration="1622000" />
+      <workItem from="1687797375635" duration="16494000" />
+      <workItem from="1687881269543" duration="17118000" />
+      <workItem from="1687980499349" duration="8146000" />
+      <workItem from="1688097576490" duration="1952000" />
+      <workItem from="1688402716929" duration="9186000" />
+      <workItem from="1688416351997" duration="13000" />
+      <workItem from="1688423846168" duration="8225000" />
+      <workItem from="1688482355993" duration="2273000" />
+      <workItem from="1688488013184" duration="2502000" />
+      <workItem from="1688491412802" duration="8439000" />
+      <workItem from="1688501596469" duration="5880000" />
+      <workItem from="1688529347144" duration="152000" />
+      <workItem from="1688570770028" duration="1218000" />
+      <workItem from="1688589300316" duration="702000" />
+      <workItem from="1688597439392" duration="1350000" />
+      <workItem from="1688657516706" duration="3146000" />
+      <workItem from="1688662790715" duration="12520000" />
+      <workItem from="1688688287789" duration="2020000" />
+      <workItem from="1688753202893" duration="7044000" />
+      <workItem from="1689358963444" duration="3465000" />
+      <workItem from="1689362785715" duration="12147000" />
+      <workItem from="1689711518325" duration="310000" />
+      <workItem from="1690826223848" duration="14139000" />
+      <workItem from="1690904972766" duration="11987000" />
+      <workItem from="1691172661755" duration="11000" />
+      <workItem from="1691523067070" duration="364000" />
+      <workItem from="1691526489408" duration="2031000" />
+      <workItem from="1691690838391" duration="2315000" />
+      <workItem from="1692745778092" duration="3011000" />
+      <workItem from="1692803446245" duration="15213000" />
+      <workItem from="1692903047449" duration="575000" />
+      <workItem from="1692905283072" duration="1428000" />
+      <workItem from="1692986622360" duration="11796000" />
+      <workItem from="1693324649886" duration="18767000" />
+      <workItem from="1693417551568" duration="2829000" />
+      <workItem from="1693500402490" duration="12858000" />
+      <workItem from="1693595809528" duration="8094000" />
+      <workItem from="1693930021552" duration="1851000" />
+      <workItem from="1694015911297" duration="10230000" />
+      <workItem from="1694039888281" duration="4238000" />
+      <workItem from="1694102536905" duration="9674000" />
+      <workItem from="1694197378282" duration="2046000" />
+      <workItem from="1694536321604" duration="287000" />
+      <workItem from="1694623568854" duration="10084000" />
+      <workItem from="1694717286801" duration="7725000" />
+      <workItem from="1695057640062" duration="11520000" />
+      <workItem from="1695226272521" duration="15326000" />
+      <workItem from="1697055536046" duration="7597000" />
+      <workItem from="1697147770081" duration="15506000" />
+      <workItem from="1697215083023" duration="1163000" />
+      <workItem from="1697242619753" duration="41000" />
+      <workItem from="1697845118043" duration="1218000" />
+      <workItem from="1699548743304" duration="7577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Carga/view/carga/index/buscapartidas.phtml</url>
+          <line>119</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Usuarios/view/usuarios/index/index.phtml</url>
+          <line>109</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Application/view/application/index/menuizquierdo.phtml</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
